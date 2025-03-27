@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "ssh2": "^1.16.0"
+  }
+}
